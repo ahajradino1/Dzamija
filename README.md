@@ -4,7 +4,7 @@ Dzamija is a Unity project that uses Vuforia to display an Augmented Reality car
 The model and textures of this building are made in Blender and imported into Unity, where interactable points of interest are added. POIs are: 
 - clickable book that displays a text about history of the mosque,
 - clickable playbutton that plays a video of mosque's exterior (audio included) and
-- clickable camera that shows image of interior of the mosque and allows user to change images by clicking on left and right arrow.
+- clickable camera that shows images of interior of the mosque and allows users to switch images by clicking on left and right arrow.
 
 Previously listed objects (book, playbutton and camera) are also modeled in Blender and imported into Unity.
 
